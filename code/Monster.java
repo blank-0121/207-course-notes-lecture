@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class Monster {
     /**
-     * A monster.
+     * A monster. rawr
      */
 
     /* Variables defined at the class level
